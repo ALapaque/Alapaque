@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **AstroJS & Flutter**
 
-- 👨‍💻 All of my projects are available at [http://amaury.must.be/home](http://amaury.must.be/home)
-
 - 💬 Ask me about **Angular, React, UI/UX**
 
 - 📫 How to reach me **amaury.lapaque@gmail.com**
