@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alapaque" alt="alapaque" /></a> </p>
 
-- 🔭 I’m currently working on [EasyOrderApp Generator](https://www.easyorderapp.com)
+- 🔭 I’m currently working on [EasyOrder](https://www.easyorderapp.com)
 
 - 🌱 I’m currently learning **AstroJS & Flutter**
 
