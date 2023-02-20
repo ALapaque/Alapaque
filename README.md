@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **amaury.lapaque@gmail.com**
 
+<a href="https://app.daily.dev/alapaque"><img src="https://api.daily.dev/devcards/ecf8420d088740959f677a472a3499e3.png?r=22q" width="400" alt="Amaury Lapaque's Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amaury.lapaque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amaury.lapaque" height="30" width="40" /></a>
